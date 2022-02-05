@@ -80,7 +80,7 @@ console.log("Los personas que pueden pasar a la fiesta son: " + invitados);
 
 console.log(" ")
 
-// Ejercicio 3
+// Ejercicio 3: Serie Fibonacci
 
 console.log("Ejercicio 3: Serie Fibonacci");
 
